@@ -11,10 +11,10 @@ Pod::Spec.new do |s|
   s.name             = 'ZJLoginManager'
   s.version          = '0.1.0'
   s.summary          = 'A short description of ZJLoginManager.'
-  s.homepage         = 'https://github.com/51930184@qq.com/ZJLoginManager'
+  s.homepage         = 'https://github.com/zhang232425/ZJLoginManager'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '51930184@qq.com' => 'yonathan@asetku.com' }
-  s.source           = { :git => 'https://github.com/51930184@qq.com/ZJLoginManager.git', :tag => s.version.to_s }
+  s.author           = { 'zhang232425' => 'yonathan@asetku.com' }
+  s.source           = { :git => 'https://github.com/zhang232425/ZJLoginManager.git', :tag => s.version.to_s }
   s.ios.deployment_target = '10.0'
   
   s.source_files = 'ZJLoginManager/Classes/**/*'
