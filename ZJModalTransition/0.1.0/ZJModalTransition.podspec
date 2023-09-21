@@ -11,10 +11,10 @@ Pod::Spec.new do |s|
   s.name             = 'ZJModalTransition'
   s.version          = '0.1.0'
   s.summary          = 'A short description of ZJModalTransition.'
-  s.homepage         = 'https://github.com/51930184@qq.com/ZJModalTransition'
+  s.homepage         = 'https://github.com/zhang232425/ZJModalTransition'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '51930184@qq.com' => 'yonathan@asetku.com' }
-  s.source           = { :git => 'https://github.com/51930184@qq.com/ZJModalTransition.git', :tag => s.version.to_s }
+  s.author           = { 'zhang232425' => 'yonathan@asetku.com' }
+  s.source           = { :git => 'https://github.com/zhang232425/ZJModalTransition.git', :tag => s.version.to_s }
   s.ios.deployment_target = '10.0'
   s.source_files = 'ZJModalTransition/Classes/**/*'
   s.resource_bundles = {
